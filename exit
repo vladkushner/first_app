@@ -1,0 +1,71 @@
+commit ab95e22c91bd04f79e75d109c0b08624714a55b9
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 20:28:10 2013 +0300
+
+    Including root main page
+
+commit 962ddcc9a646fd7ba993a9c0852c4fd4d79884f3
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 20:23:48 2013 +0300
+
+    Adding resource User by scaffold
+
+commit 73362e5e2b46a8d491b0dba2c1684921d2e199e8
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 20:00:18 2013 +0300
+
+    Disconecting main page
+
+commit 5a45dcb67d63c4556bf5a8e9759e396ac728476b
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 18:41:34 2013 +0300
+
+    Changing production
+
+commit 7ca456341a923db952636162bb71ccbf66bbb9da
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 18:10:38 2013 +0300
+
+    Specify ruby version
+
+commit 7e6b2f9851b724afd01f89ee4b43e26663577ed2
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 17:52:57 2013 +0300
+
+    Updating main page
+
+commit bc7ec9b646b2c1fdb43c73bd8368587e9b99a3d3
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 17:27:35 2013 +0300
+
+    Adding mane page
+
+commit aebb77266fd2fdbbddcc8c30442f0d4298b7caf2
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 16:07:37 2013 +0300
+
+    Updating .lock after adding rails_12factor gem
+
+commit 8088903b807ace56db20877b424ca874e7c5ddc8
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sun Nov 17 15:58:58 2013 +0300
+
+    Addind rails_12factor gem
+
+commit ce6d3b06f18512b84faf172ab1b225d7ebe80fe3
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sat Nov 16 01:28:27 2013 +0300
+
+    Adding pg gem to gem list
+
+commit 7574d631b0d5724e4fb0a1f7f599f7fc309970e3
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Sat Nov 16 01:01:16 2013 +0300
+
+    Improve the README file
+
+commit 0d894ad300794c75cba2cad11083f2fce6dbf906
+Author: vlad_kushner <vladkushner@gmail.com>
+Date:   Fri Nov 15 23:55:24 2013 +0300
+
+    Initial commit
