@@ -38,7 +38,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'protected_attributes' 
+#gem 'protected_attributes' 
 
 ruby "2.0.0"
 
